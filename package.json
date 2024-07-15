@@ -1,0 +1,16 @@
+{
+    "name": "starter-kit-v3",
+    "version": "1.0.0",
+    "description": "A starter kit for building websites.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
+  
